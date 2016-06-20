@@ -382,8 +382,6 @@
     <string name="msg_popup_moderate">Moderate</string>
     <string name="msg_popup_moderate_cancel">Cancel Moderate</string>
     <string name="msg_popup_at">Mention</string>
-    <string name="fragment_bottom_toast_ban_info">Ban &#8230;</string>
-    <string name="fragment_bottom_toast_unban_info">Unban &#8230;</string>
     <string name="permission_storage_denied">Write storage file denied, please allow</string>
     <string name="permission_audio_denied">Record audio permission denied, please allow</string>
     <string name="msg_error_often">Your message not sent because you are sending messages too quickly. You will be able to talk in %d seconds.</string>
@@ -483,8 +481,17 @@
     <string name="activity_show_email_title">Email</string>
     <string name="activity_verify_email_title">Email</string>
     <string name="fragment_reset_password_label">For your security, please enter your password.</string>
-    <string name="fragment_vertify_dialog_title">Check your email!</string>
-    <string name="fragment_vertify_dialog_message">We have send a verification email to %s</string>
+    <string name="fragment_vertify_dialog_title">Check Your Inbox</string>
+    <string name="fragment_vertify_dialog_message">We have sent an email to %s with the code</string>
     <string name="toast_fragment_vertify_email_binding_email_loading">Binding Email &#8230;</string>
     <string name="msg_mute_description_manager">%s won\'t chat and message with broadcaster.</string>
+    <string name="fragment_show_email_account_email_label_verified">Your email address is verified %s</string>
+    <string name="fragment_dialog_shoucash_what_shoucash">What is ShouCash?</string>
+    <string name="toast_fragment_dialog_shoucash_account_kit_verify_error">AccountKit Verify error</string>
+    <string name="toast_fragment_dialog_shoucash_account_kit_verify_unknown_error">AccountKit Verify Unknown error</string>
+    <string name="toast_fragment_dialog_shoucash_account_kit_verify_success">Binding phone number successfully!</string>
+    <string name="activity_account_hint_phone">phone</string>
+    <string name="toast_account_kit_vertify_phone_binding_phone_loading">Binding Phone &#8230;</string>
+    <string name="fragment_account_kit_title">Binding Phone</string>
+    <string name="activity_show_email_progress_text">Send Code&#8230;</string>
 </resources>

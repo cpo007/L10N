@@ -1,4 +1,3 @@
-
 "TIME_AGO_SECONDS" = "À l'instant";
 "TIME_AGO_MINUTE" = "1 min";
 "TIME_AGO_MINUTES" = "%@ mins";
@@ -11,7 +10,6 @@
 "TIME_AGO_YEAR" = "1 an";
 "TIME_AGO_YEARS" = "%@ ans";
 
-
 "title_bar_done" = "Saisir";
 
 "dialog_button_verify" = "Vérifier";
@@ -21,7 +19,6 @@
 "dialog_button_delete" = "Supprimer";
 "dialog_button_share" = "Partager à";
 "dialog_button_close" = "Fermer";
-
 "dialog_button_cancel" = "Annuler";
 "dialog_title_open_safari" = "Ouvrir sur Safari?";
 
@@ -38,7 +35,6 @@
 "explore_leaderboard" = "Leaderboard";
 "explore_leaderboard_text_score" = "score %@";
 
-
 "no_videos" = "Aucun vidéo ne s'affiche";
 "no_games" = "Aucun jeu ne s'affiche";
 "no_following" = "Pas d'abonnement";
@@ -46,7 +42,6 @@
 "search_no_peoples" = "Aucun streamer a trouvé";
 "search_no_games" = "Aucun jeu mobile a trouvé";
 "search_no_videos" = "Aucun vidéo a trouvé";
-
 
 "profile_text_videos" = "Lives";
 "profile_text_followers" = "Abonnés";
@@ -63,7 +58,6 @@
 "profile_text_moderators" = "Modérateurs";
 "profile_text_muted_users" = "Utilisateurs muets";
 "profile_text_options" = "Options";
-
 "profile_text_broadcast_camera" = "Live caméra";
 
 "landing_slogan" = "Shou est une communauté \npour live des jeux mobiles.";
@@ -71,7 +65,6 @@
 "landing_btn_twitter" = "Continuer avec Twitter";
 "landing_btn_facebook" = "Continuer avec Facebook";
 "landing_btn_google" = "Continuer avec Google";
-
 "landing_btn_email" = "S'inscrire par Email";
 "landing_btn_email_log_in" = "Se connecter par Email";
 "landing_btn_log_in_tip" = "Avez-vous déjà un compte? Se connecter";
@@ -83,7 +76,6 @@
 "landing_google_plus_sign_in_progress" = "Se connecter avec Google Plus";
 "landing_facebook_sign_in_progress" = "Se connecter avec Facebook";
 "landing_twitter_sign_in_progress" = "Se connecter avec Twitter";
-
 "landing_text_agree" = "En Continuant à l'utiliser, vous agréez %@ and %@";
 "landing_text_agree_term" = "Conditions de service";
 "landing_text_agree_privacy" = "Protection de la vie privée";
@@ -103,7 +95,6 @@
 "account_text_game_players" = "%@ jeueurs";
 "account_text_joined" = "Joined on %@";
 "account_title_edit_profile" = "Editer profil";
-
 "account_title_change_password" = "Changer mot de passe";
 "account_label_username" = "Pseudo";
 "account_label_password" = "Mot de passe";
@@ -118,7 +109,6 @@
 "account_hint_email" = "email";
 "account_hint_username" = "Pseudo";
 "account_hint_password" = "Mot de passe";
-
 "account_hint_current_password" = "Mot de passe actuel";
 "account_hint_new_password" = "Nouveau mot de pass";
 "account_hint_confirm_password" = "Confirmer le nouveau mot de passe";
@@ -128,13 +118,11 @@
 "account_text_optional" = "optionnel";
 "account_text_username" = "Votre psuedo @%@ est unique. Vous pouvez le changer plus tard.";
 "account_choose_avatar" = "Choisir une photo";
-
 "account_choose_avatar_failed" = "e choix d'une photo a échoué";
 "account_btn_signing_up" = "Inscription en cours";
 "account_btn_signed_up" = "Inscrit";
 "account_btn_signing_in" = "Connexion en cours";
 "account_btn_signed_in" = "Connecté";
-
 "account_btn_sign_in_failed" = "Échec lors de connexion car les infos invalides";
 "account_btn_forgot_password" = "Mot de passe oublié?";
 "account_title_forget" = "Réinitialiser mon mot de passe";
@@ -147,7 +135,6 @@
 "account_btn_save_profile" = "Sauvegarder";
 "account_btn_saving_profile" = "Sauvegarde en cours";
 "account_btn_saved_profile" = "Sauvegardé";
-
 "account_btn_follow" = "S'abonner";
 "account_btn_following" = "Abonnement";
 "account_toast_follow_failed" = "Error when following";
@@ -156,7 +143,6 @@
 "account_toast_invalid_identify_or_password" = "Identité ou mode passe invalide";
 "account_toast_invalid_password_empty" = "Please enter current password";
 "account_toast_invalid_password_again" = "Invalid password. Please enter again.";
-
 "account_toast_reset_password_success" = "We've sent an email to you. Click the link in the email to reset your password.";
 "account_toast_reset_password_failed" = "Email invalide";
 "account_toast_profile_update_success" = "Le changement du profil éffectué!";
@@ -173,7 +159,6 @@
 "account_invite_friends" = "Invite friends";
 "account_invite" = "I'm on Shou.TV as %@ . Install the app to follow my streamings.";
 "account_user_video_delete_info" = "Voulez-vous supprimer ce vidéo?";
-
 "account_check_password" = "Pour votre sécurité, il faut entrer votre mot de passe.";
 "account_email_bind" = "S'il vous plait de confirmer votre adresse email, car un compte existe déjà pour cette adresse email.";
 "account_email_bind_change" = "Après avoir vérifié votre nouvelle adresse email,  %@ n'est plus associée à ce compte.\n\n";
@@ -223,7 +208,6 @@
 "action_edit_failed" = "Rename failed";
 
 "msg_send_button" = "ENVOYER";
-
 "msg_send_failed" = "Can't send this message";
 "msg_hint_send_msg" = "Message envoyé";
 "msg_ban_user" = "Masquer";
@@ -242,7 +226,6 @@
 
 "toast_api_error_forbidden" = "Accès interdit";
 "toast_api_error_no_connection" = "Pas de connexion";
-
 "toast_api_error_connection_timeout" = "Délai d'attente de connexion";
 "toast_api_error_server_5xx" = "Maintenance du serveur en Shou.TV ...";
 "toast_api_error_not_found" = "Pas de message";
@@ -250,7 +233,6 @@
 "toast_video_deleted" = "Ce live est supprimé par le streamer";
 
 "about_title" = "À propos";
-
 "about_title_help" = "Centre d'aide";
 "about_title_faq" = "FAQ";
 "about_summary_faq" = "Shou FAQ";
@@ -268,7 +250,6 @@
 "about_title_feedback" = "Report a Problem";
 "about_title_instagram" = "Instagram";
 
-
 "From Photo Library" = "Sélectionner une de mes photos";
 "From Camera" = "Prendre une photo";
 "Choose Source" = "Choisir source";
@@ -280,7 +261,6 @@
 "payment_title_label" = "Get More ShouCash!";
 "payment_faild" = "votre achat a échoué!";
 "payment_success" = "Achat réussi! avez %@ ShouCash, %@ ShouCash au total";
-
 "payment_faild_not_allow" = "Achats intégrés sont désactivés, allez aux Réglages > Général > Restrictions > activer Achats intégrés";
 "lackmoney_title_label" = "ShouCash insuffisant!";
 "lackmoney_topup_label" = "Qu'est-ce que c'est le ShouCash?";
@@ -305,7 +285,6 @@
 "msg_popup_mention" = "Mentionner";
 "msg_popup_moderate" = "Modérateur";
 "msg_popup_moderate_cancel" = "Annuler modérateur";
-
 "msg_popup_moderate_description" = "%@ est le modérateur dans ce chat.";
 "msg_popup_moderate_cancel_description" = "%@ n'est pas plus de modérateur dans ce chat.";
 
@@ -314,7 +293,6 @@
 "message_like" = "%@ aime votre live";
 "message_follow_me" = "Vous ont suivi %@";
 "message_follow" = "%@ Vous sont suivi";
-
 "message_new_placeholder" = "Écrir un message…";
 "message_tip_donate_me" = "Vous offrez %@ %@ ShouCash";
 "message_tip_donate" = "%@ offrez Vous %@ ShouCash";
@@ -326,7 +304,6 @@
 "share_search_placeholder" = "Rechercher";
 "share_to_successed" = "Partager a réussi!";
 "share_no_found_mutual" = "Pas d'amis mutuel";
-
 "share_to_twitter" = "Voyez %@ LIVE sur #Shou: %@ %@";
 
 "spotlight_content" = "Voyez %@ LIVE sur Shou";
@@ -334,14 +311,12 @@
 "notification_push_donate" = "💰 %@ vous envoye %@ ShouCash";
 "notification_push_live" = "👾 %@ live %@";
 "notification_push_follow" = "💞 %@ vous ont suivi";
-
 "notification_push_share" = "💬 %@ vous demande de voir %@";
 "notification_push_like" = "❤️ %@ aime votre live";
 "notification_push_message" = "💬 %@: %@";
 
 "rate_not_interested" = "Pas d'intérêt";
 "rate_title" = "nous sommes heureux que vous êtes herueux";
-
 "rate_tip" = "Notez notre appli? Tap a star to rate.";
 "rate_feedback" = "S'il vous plait de règler votre avis en cliquant \"Continuer\"!";
 "rate_continue" = "S'il vous plait de partager votre avis sur Google Play en cliquant \"Continuer\"!";
