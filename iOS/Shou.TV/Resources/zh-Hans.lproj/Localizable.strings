@@ -295,6 +295,8 @@
 "message_new_placeholder" = "发消息...";
 "message_tip_donate_me" = "您赠送了 %@ %@ ShouCash";
 "message_tip_donate" = "%@ 赠送给您 %@ ShouCash";
+"message_notification_tip" = "🔔 点击打开推送通知";
+"message_all_marked_read" = "全部消息已标记为已读";
 
 "menu_copy" = "复制";
 "menu_copy_url" = "复制链接";
@@ -317,3 +319,7 @@
 "rate_tip" = "喜欢 Shou 吗? 点击星星评价我们的应用。";
 "rate_feedback" = "点击\"继续\"将您的建议反馈给我们!";
 "rate_continue" = "点击\"继续\"将您的五星好评分享到 App Store, 感谢您的支持!";
+
+
+"activity_screen_streaming_retry" = "重试";
+"activity_network_error" = "网络异常~";

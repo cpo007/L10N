@@ -296,6 +296,8 @@
 "message_new_placeholder" = "寫訊息...";
 "message_tip_donate_me" = "您抖內了 %@ %@ ShouCash";
 "message_tip_donate" = "%@ 抖內了您 %@ ShouCash";
+"message_notification_tip" = "🔔 點擊打開推送通知";
+"message_all_marked_read" = "全部訊息已標記為已讀";
 
 "menu_copy" = "複製";
 "menu_copy_url" = "複製連結";
@@ -318,3 +320,7 @@
 "rate_tip" = "喜歡 Shou 嗎？";
 "rate_feedback" = "輕觸「繼續」將您的建議回饋給我們！";
 "rate_continue" = "輕觸「繼續」將您的好評分享至 App Store, 感謝您的支持！";
+
+"activity_screen_streaming_retry" = "重試";
+"activity_network_error" = "網路異常~";
+

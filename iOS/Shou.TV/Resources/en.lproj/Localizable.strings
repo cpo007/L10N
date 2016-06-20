@@ -296,6 +296,8 @@
 "message_new_placeholder" = "Write a message...";
 "message_tip_donate_me" = "You donated %@ %@ ShouCash";
 "message_tip_donate" = "%@ donated you %@ ShouCash";
+"message_notification_tip" = "🔔 Click to turn on push notifications";
+"message_all_marked_read" = "All messages were marked as read";
 
 "menu_copy" = "Copy";
 "menu_copy_url" = "Copy Link";
@@ -320,3 +322,6 @@
 "rate_tip" = "How do you like our app? Tap a star to rate.";
 "rate_feedback" = "Please feedback your sugguest of our app by tapping \"Continue\"";
 "rate_continue" = "Please share this rating of our app on App Store by tapping \"Continue\"";
+
+"activity_screen_streaming_retry" = "Reset";
+"activity_network_error" = "Network connection error ~";
