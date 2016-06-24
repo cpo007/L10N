@@ -323,5 +323,5 @@
 "rate_feedback" = "Please feedback your sugguest of our app by tapping \"Continue\"";
 "rate_continue" = "Please share this rating of our app on App Store by tapping \"Continue\"";
 
-"activity_screen_streaming_retry" = "Reset";
+"activity_screen_streaming_retry" = "Retry";
 "activity_network_error" = "Network connection error ~";
